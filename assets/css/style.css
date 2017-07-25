@@ -86,7 +86,7 @@ footer{
 	border-top-width: 7px;
 }
 
-#myName{
+#logo{
 	background-color: #4aaaa5;
 	border-bottom-style: solid;
 	border-bottom-color: #cccccc;
@@ -123,7 +123,6 @@ footer{
 
 .div1{
 	margin: auto;
-	width: 960px;
 }
 
 .div2{
