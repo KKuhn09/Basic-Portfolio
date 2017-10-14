@@ -1,7 +1,8 @@
+/*Style for class "div1"*/
 .div1{
 	margin: auto;
 }
-
+/*Style for <body> tag*/
 body{
 	background-image: url("http://www.designbolts.com/wp-content/uploads/2012/12/Simple-Horizontal-Seamless-Pattern-For-Website-Background.jpg");
 
@@ -19,7 +20,7 @@ header{
 	width: 100%;
 	white-space: nowrap;
 }
-
+/*Style for a tag with an id of logo*/
 #logo{
 	width: 200px;
 	margin: 0px;
@@ -48,7 +49,8 @@ nav ul{
 nav ul li{
     display:inline-block;
 }
-
+/*Styles for when a link when it is inactive, hovered over by a mouse pointer,
+  or after it has been clicked*/
 a:link{
 	color: #777777;
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
