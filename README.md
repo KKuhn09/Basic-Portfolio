@@ -1,4 +1,4 @@
-# Basic-Portfolio
+# Basic Portfolio
 
 ## Portfolio template with About, Portfolio, and Contact pages
 
